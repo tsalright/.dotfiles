@@ -35,6 +35,7 @@ config_packages:
       - twilio
       - exercism
       - yarn
+      - azure-cli
     homebrew_cask_packages:
       - arc
       - iterm2
@@ -49,6 +50,7 @@ config_packages:
       - postman
       - obs
       - font-dejavu-sans-mono-nerd-font
+      - dotnet-sdk
     apt_packages:
       - neovim
       - tmux
@@ -81,6 +83,7 @@ config_packages:
       - twilio
       - exercism
       - yarn
+      - azure-cli
     homebrew_cask_packages:
       - arc
       - iterm2
@@ -100,7 +103,7 @@ config_packages:
       - obs
       - krisp
       - font-dejavu-sans-mono-nerd-font
-      - microsoft-office
+      - dotnet-sdk
     apt_packages:
       - neovim
       - tmux
@@ -109,6 +112,7 @@ config_packages:
       - zsh
       - golang-go
 defilan_directories:
-- ~/stuffy
-- ~/stuffy/code
-- ~/stuffy/playground
+- ~/tsally
+- ~/tsally/code
+- ~/tsally/playground
+- ~/tsally/clients
