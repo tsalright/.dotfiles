@@ -8,7 +8,7 @@ This repository contains an Ansible playbook for setting up a MacOS or Debian de
 To use this setup, clone this repository into a directory of your choice on your Mac or Debian system:
 
 ```bash
-git clone https://github.com/defilan/dotfiles.git ~/.dotfiles
+git clone https://github.com/tsalright/.dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install.sh
 ```
