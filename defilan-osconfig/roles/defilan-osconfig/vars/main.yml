@@ -13,7 +13,6 @@ config_packages:
   developer:
     homebrew_taps:
       - hashicorp/tap
-      - homebrew/cask-fonts
       - aws/tap
       - twilio/brew
     homebrew_packages:
@@ -61,7 +60,6 @@ config_packages:
   home:
     homebrew_taps:
       - hashicorp/tap
-      - homebrew/cask-fonts
       - aws/tap
       - twilio/brew
     homebrew_packages:
